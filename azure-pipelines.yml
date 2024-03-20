@@ -1,7 +1,7 @@
 trigger: 
 - main
 pool: 
-  vmImage: 'AzurePipelines'
+  vmImage: 'Default'
 variables:
   buildConfiguration: 'Release'
 steps:
