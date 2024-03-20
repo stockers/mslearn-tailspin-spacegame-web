@@ -1,5 +1,5 @@
 {
-    "name": "AzurePipelines",
+    "name": "animated waddle",
     "dockerFile": "Dockerfile",    
 
     // Configure tool-specific properties.
